@@ -1,0 +1,15 @@
+
+.. _joyplot:
+
+
+Joyplot
+=======
+
+
+
+.. image:: _images/joyplot.png
+
+**Python source code:** :download:`[download source: joyplot.py]<joyplot.py>`
+
+.. literalinclude:: joyplot.py
+    :lines: 7-
